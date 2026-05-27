@@ -24,14 +24,17 @@ I believe the best way to improve is by **building in public**, so everything he
 ---
 
 ### 🛠️ Tech I work with
-[![My Skills](https://skillicons.dev/icons?i=swift,xcode,git,sql-server,sqlite,luam)](https://skillicons.dev)
+
 <p>
-  <div style="text-align: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=swift,xcode,git,sql-server,sqlite,lua" />
-    </a>
-  </div>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" height="38" alt="Swift">
+  &nbsp;
+  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white" height="38" alt="SwiftUI">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" height="38" alt="Xcode">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="38" alt="Git">
 </p>
+
 ---
 
 ### 📱 Featured projects
