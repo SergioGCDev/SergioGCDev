@@ -24,13 +24,13 @@ I believe the best way to improve is by **building in public**, so everything he
 ---
 
 ### 🛠️ Tech I work with
-
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,xcode,git,github&theme=light" alt="Swift, Xcode, Git, GitHub">
-  </a>
+  <div style="text-align: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=swift,xcode,git,sql-server,sqlite,lua" />
+    </a>
+  </div>
 </p>
-
 ---
 
 ### 📱 Featured projects
