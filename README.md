@@ -26,13 +26,9 @@ I believe the best way to improve is by **building in public**, so everything he
 ### 🛠️ Tech I work with
 
 <p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" height="38" alt="Swift">
-  &nbsp;
-  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white" height="38" alt="SwiftUI">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" height="38" alt="Xcode">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="38" alt="Git">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,xcode,git,github&theme=light" alt="Swift, Xcode, Git, GitHub">
+  </a>
 </p>
 
 ---
