@@ -6,9 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://sergiogc.dev"><img src="https://img.shields.io/badge/Portfolio-sergiogc.dev-007AFF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
-  <a href="https://sergiogc.dev/cv"><img src="https://img.shields.io/badge/CV-Read%20online-111110?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"></a>
-  <a href="https://www.linkedin.com/in/sergiogarciacalero/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://sergiogc.dev"><img src="https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
+  &nbsp;
+  <a href="https://sergiogc.dev/cv"><img src="https://img.shields.io/badge/CV-111110?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sergiogarciacalero/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -23,10 +25,15 @@ I believe the best way to improve is by **building in public**, so everything he
 
 ### 🛠️ Tech I work with
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" height="38" alt="Swift">
+  &nbsp;
+  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white" height="38" alt="SwiftUI">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" height="38" alt="Xcode">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="38" alt="Git">
+</p>
 
 ---
 
@@ -53,13 +60,6 @@ I believe the best way to improve is by **building in public**, so everything he
 </table>
 
 ---
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SergioGCDev&show_icons=true&hide_border=true&title_color=007AFF&icon_color=007AFF" alt="Sergio's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGCDev&layout=compact&hide_border=true&title_color=007AFF" alt="Top languages">
-</p>
 
 <p align="center">
   <i>Currently building, learning, and shipping — one commit at a time.</i> 🚀
