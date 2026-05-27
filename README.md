@@ -24,6 +24,7 @@ I believe the best way to improve is by **building in public**, so everything he
 ---
 
 ### 🛠️ Tech I work with
+[![My Skills](https://skillicons.dev/icons?i=swift,xcode,git,sql-server,sqlite,luam)](https://skillicons.dev)
 <p>
   <div style="text-align: center;">
     <a href="https://skillicons.dev">
