@@ -42,12 +42,7 @@ I believe the best way to improve is by **building in public**, so everything he
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>📚 TankōDex</h4>
-      <p>My SDP final project. Track your manga collection through an external API, with advanced search and a personal library.</p>
-      <a href="https://github.com/SergioGCDev/PRACTICA-FINAL-SDP-26">→ View repo</a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>💸 FinMate</h4>
+      <h4>💸 Rumbo</h4>
       <p>A personal finance companion: track daily expenses, subscriptions and contracts, keeping your money always visible.</p>
       <a href="https://github.com/SergioGCDev/FinMate">→ View repo</a>
     </td>
